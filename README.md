@@ -4,4 +4,4 @@
 
 -**My resume:**
 
--**My telegram:https://t.me/zvdan**
+-**My telegram: https://t.me/zvdan**
