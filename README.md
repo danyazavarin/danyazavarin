@@ -1,6 +1,6 @@
 ## 👋hello to everyone who reads this 👋
 
-🌱 ***I am currently studying:<br> applied mathematics and physics on the bioinformatics course at SPbAU RAS***
+🌱 ***I am currently studying:<br>   applied mathematics and physics on the bioinformatics course at SPbAU RAS***
 
 - **My mentor: https://github.com/Vivelapaix**
 
