@@ -4,4 +4,6 @@
 
 - **My resume: will be soon**
 
+- **My mentor: https://github.com/Vivelapaix**
+
 - **My telegram: https://t.me/zvdan**
