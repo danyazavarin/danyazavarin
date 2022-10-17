@@ -4,6 +4,6 @@
 
 - **My mentor: https://github.com/Vivelapaix**
 
-- **My telegram: https://t.me/zvdan**
+- **My telegram: [@zvdan](https://t.me/zvdan)**
 
 - **My resume: will be soon**
