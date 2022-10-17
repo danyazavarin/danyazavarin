@@ -6,4 +6,4 @@
 
 - **My telegram: [@zvdan](https://t.me/zvdan)**
 
-- **My resume: will be soon**
+- **My resume: https://danyazavarin.github.io/**
