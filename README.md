@@ -1,4 +1,4 @@
-## 👋hello 👋
+## 👋 hello all! 👋
 
 - **My mentor: https://github.com/Vivelapaix**
 
