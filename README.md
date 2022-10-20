@@ -1,4 +1,4 @@
-## 👋hello to everyone who reads this 👋
+## 👋hello 👋
 
 - **My mentor: https://github.com/Vivelapaix**
 
