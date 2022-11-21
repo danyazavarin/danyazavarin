@@ -1,3 +1,3 @@
 ## 👋 Hello all! 👋
 
-- **My resume: https://danyazavarin.github.io/**
+**[My_resume](https://danyazavarin.github.io/resume/)**
