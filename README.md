@@ -18,7 +18,7 @@
 
 
 ## 🔗 Основные ссылки
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://docs.google.com/document/d/1aFsmAQtx4ZMaxd4q2ZkYzzUE8Kc4ZX5q6I1D6sm2y0k/edit?usp=sharing)
+[![portfolio](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://docs.google.com/document/d/1aFsmAQtx4ZMaxd4q2ZkYzzUE8Kc4ZX5q6I1D6sm2y0k/edit?usp=sharing)
 
 [![telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zvdan)
 
