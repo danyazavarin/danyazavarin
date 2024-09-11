@@ -20,8 +20,8 @@
 
 | Сайт  | Исходный код |
 | ----- | -------------|
-| [BioTracker](https://biotrackerau.netlify.app/) |  [click](https://github.com/MSDEGroup)  |
-| [MSDEGroup](https://msdegroup.com/) | [click](https://github.com/danyazavarin/diploma) |
+| [MSDEGroup](https://msdegroup.com/) | [click](https://github.com/MSDEGroup) |
+| [BioTracker](https://biotrackerau.netlify.app/) | [click](https://github.com/danyazavarin/diploma) |
 
 ## 🔗 Основные ссылки
 [![portfolio](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://docs.google.com/document/d/1aFsmAQtx4ZMaxd4q2ZkYzzUE8Kc4ZX5q6I1D6sm2y0k/edit?usp=sharing)
