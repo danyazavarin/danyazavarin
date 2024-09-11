@@ -7,15 +7,21 @@
 
 ## 🛠 С чем я умею работать
 
-**Языки программирования:** JavaScript, TypeScript\
+**Языки программирования:** JavaScript, TypeScript, bash\
 **Библиотеки:** React, Redux Toolkit, RTK Query, React Router, React Hook Form, Classnames, React Testing Library, Jest, SCSS, Ant Design\
 **CI/CD:** ESlint, Prettier, Husky, Lint-staged, Commitlint, Vite, Webpack, Npm, Yarn, Docker, Nginx\
 **Система контроля версий:** git\
 **Хостинги для разработки:** Github, Gitlab\
-**Серверная часть:** Node, Express\
+**Серверная часть:** Node, Express, SQL, PostgreSQL\
 **Другое:** Jira, Confluence, Agile, Scrum, Kanban\
 **Бизнес – домены:** Банкинг, Логистика, Страхование
 
+## ✨ Мои лучшие работы
+
+| Сайт  | Исходный код |
+| ----- | -------------|
+| [BioTracker](https://biotrackerau.netlify.app/) |  [click](https://github.com/MSDEGroup)  |
+| [MSDEGroup](https://msdegroup.com/) | [click](https://github.com/danyazavarin/diploma) |
 
 ## 🔗 Основные ссылки
 [![portfolio](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://docs.google.com/document/d/1aFsmAQtx4ZMaxd4q2ZkYzzUE8Kc4ZX5q6I1D6sm2y0k/edit?usp=sharing)
