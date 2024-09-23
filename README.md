@@ -28,4 +28,4 @@
 
 [![telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zvdan)
 
-[![mail](https://img.shields.io/badge/Mail-%23005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:zvr_danny@mail.ru)
+[![mail](https://img.shields.io/badge/Mail-%23005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:zvr.danny@gmail.com)
