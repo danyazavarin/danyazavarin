@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Привет%20всем!&fontSize=75&animation=fadeIn&fontAlignY=32&desc=Добро%20пожаловать%20в%20мой%20GitHub%20profile!%20Меня%20зовут%20Даня!&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20all!&fontSize=75&animation=fadeIn&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20profile!%20My%20name%20is%20Danya!&descAlignY=55&descAlign=50)
 
 
 ## 🚀 General information about me 
