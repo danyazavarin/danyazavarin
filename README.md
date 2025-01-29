@@ -2,7 +2,7 @@
 
 
 ## 🚀 General information about me 
-I am a frontend developer with over 2 years of experience. During my career, I have worked on both custom and product development, created enterprise projects, and launched startups. I have a great passion for programming, am interested in information technology, and constantly strive to improve my skills.
+I am a frontend developer with over 3 years of experience. During my career, I have worked on both custom and product development, created enterprise projects, and launched startups. I have a great passion for programming, am interested in information technology, and constantly strive to improve my skills.
 
 
 ## 🛠 What can I work with
