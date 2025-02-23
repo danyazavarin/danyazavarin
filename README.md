@@ -8,8 +8,8 @@ I am a frontend developer with over 3 years of experience. During my career, I h
 ## 🛠 What can I work with
 
 **Programming languages:** JavaScript, TypeScript, bash\
-**UI Development:** React, React Router, React Hook Form, Classnames, CSS Modules, SCSS, Ant Design, FSD, MVVM\
-**State managers:** Redux, Redux Toolkit, RTK Query, Mobx\
+**UI Development:** React, React Router, React Hook Form, Classnames, CSS Modules, SCSS, Ant Design, Storybook, DDD, FSD, MVVM\
+**State managers:** Redux, Redux Toolkit, RTK Query, React Query, Mobx\
 **Testing:** React Testing Library, Jest, Playwright\
 **CI/CD:** ESlint, Prettier, Husky, Lint-staged, Commitlint, Vite, Webpack, Npm, Yarn, Docker, Nginx\
 **Version control system:** git\
