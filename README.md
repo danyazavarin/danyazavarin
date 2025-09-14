@@ -24,8 +24,8 @@ I am a frontend developer with over 3 years of experience. During my career, I h
 | Website  | Source code |
 | ----- | -------------|
 | [MSDEGroup](https://msdegroup.com/) | [click](https://github.com/MSDEGroup) |
+| [Barbershop "Порядок"](https://poryadok-barbershop.com/) | [click](https://github.com/poryadok-barbershop/frontend) |
 | [BioTracker](https://biotrackerau.netlify.app/) | [click](https://github.com/danyazavarin/diploma) |
-| [Clothing store](https://danyazavarin.github.io/responsive_website/) | [click](https://github.com/danyazavarin/responsive_website) |
 
 ## 🔗 Main links
 [![portfolio](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://docs.google.com/document/d/1aFsmAQtx4ZMaxd4q2ZkYzzUE8Kc4ZX5q6I1D6sm2y0k/edit?usp=sharing)
